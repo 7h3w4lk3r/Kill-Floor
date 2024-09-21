@@ -1,6 +1,6 @@
 # Kill-Floor
 
-Kill-Floor is an AV/EDR killer utilizing Avast’s “Anti Rootkit” driver. The code structure is designed to be adaptable for other BYOVD (Bring Your Own Vulnerable Driver) attack types. However, after a year, the included driver (`aswarpot.bin`) is heavily signatured by most security vendors. For effective use, consider replacing the driver with a less detectable alternative.
+Kill-Floor is an AV/EDR killer utilizing Avast’s “Anti Rootkit” driver. The code structure is designed to be adaptable for other BYOVD (Bring Your Own Vulnerable Driver) attack types. However, after a year, the included driver (`aswarpot.bin`) is heavily signatured by most vendors. For effective use, consider replacing the driver with a less detectable alternative for your operations.
 
 ## Execution Flow
 

@@ -12,6 +12,10 @@ The Kill-Floor tool operates as follows:
 4. Identify and terminate processes associated with known AV/EDR vendors.
 5. Repeat.
 
+## Usage  
+Compile and run as administrator.  
+
+
 ## References
 
 [Finding and Exploiting Process Killer Drivers with LOL for $3,000 (Alice Climent-Pommeret)](https://alice.climent-pommeret.red/posts/process-killer-driver/)  

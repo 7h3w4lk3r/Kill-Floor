@@ -13146,7 +13146,7 @@ int main(void) {
             killProcessByName(processNames[i]);
         }
         // delay between snapshot and process termination
-        Sleep(100);
+        Sleep(1000);
     }
 
     return 0;
